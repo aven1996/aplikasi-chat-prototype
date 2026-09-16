@@ -1,0 +1,25 @@
+/* membuat container atau wadah dari scrollbar dengan lebar 20px  */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+
+  /* membuat background dari scrollbar */
+  /* kasih warna transparan agar lebih estetik  */
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+
+
+  /* membuat styling pada batang atau bar scrollbar  */
+  /* kita beri warna abu tua dengan lengkungan di sisi atas dan bawahnya  */
+  ::-webkit-scrollbar-thumb {
+    background-color: #d6dee1;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+  }
+
+  /* warna akan berubah menjadi abu mudah saat kursor diarahkan  */
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #a8bbbf;
+  }
