@@ -6,4 +6,8 @@ Fitur:
 2. Indikator Pesan baru, pesan terkirim, dan pesan terbaca
 3. Ganti foto profil
 
+Rencana Fitur tambahan:
+1. Call Audio
+2. Simpan pesan favorit
+3. Buat Status/Story
 sudah tidak dilanjutkan lagi...
